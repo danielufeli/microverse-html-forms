@@ -11,8 +11,9 @@ This project is a clone for MINT signup page a Microverse Html Forms Project
 
 ![bust_in_silhouette](https://github.githubassets.com/images/icons/emoji/unicode/1f464.png) **Daniel**
 
--   Github: [@githubhandle](Github: https://github.com/danielufeli )
--   Facebook: [danwebguy](facebook.com/danwebguy )
+-   Github: [@githubhandle](https://github.com/danielufeli)
+-   Twitter: [@twitterhandle](@danielufeli)
+-   Linkedin: [linkedin](https://ng.linkedin.com/in/danwebguy)
 
 
 ![bust_in_silhouette](https://github.githubassets.com/images/icons/emoji/unicode/1f464.png) **Youcef ABDElLANI**
