@@ -8,6 +8,38 @@
     <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
   </head>
   <body>
+    <header>
+      <div class="sign-in-text">
+        Already have an Intuit account?<br>
+        <a href="https://accounts.intuit.com/signup.html?offering_id=Intuit.ifs.mint&namespace_id=50000026&redirect_url=https%3A%2F%2Fmint.intuit.com%2Foverview.event%3Ftask%3DS#">
+          I forgot my User ID or Password
+        </a> 
+      </div>
+      <div class="sign-in-button-container">
+        <button class="sign-in-btn">
+        <i class="fa fa-lock" aria-hidden="true"></i>
+        Sign In
+        </button>
+      </div>
+      
+    </header>
+
+    <div class="animated">
+      <div class="intuit"></div>
+      <ul class="animated-list">
+        <li><img src="https://lh3.googleusercontent.com/proxy/ZWM2lctd6KS5evuBMh5bRyBKVSigSk0wfSUaWbaDTsv-JpWEXEG9Ck1FKyXcjgU2O9TpD6IHpcjLlhYeArl42KOGil2RCl5Q8YcI1xuWNRc73XM" 
+      alt="mint ico"
+      class="animated-icon"></li>
+      <li>mint</li>
+      <li><img src="https://i.pinimg.com/280x280_RS/da/4a/b2/da4ab250558fdcdf6c4607b570eda9de.jpg" alt="quickbooks" class="animated-icon"></li>
+      <li>quickbooks</li>
+      <li><img src="data:image/png;base64,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"
+        alt="turbotax icon" class="animated-icon"></li>
+      <li>turbotax</li>
+      </ul>
+        
+    </div>
+
     <div class="form-container">
       <form action="#" id="sigup-form">
         <h2>Create an Intuit account</h2>
@@ -39,5 +71,10 @@
         </div>
       </form>
     </div>
+
+    <footer>
+      
+    </footer>
+
   </body>
 </html>
