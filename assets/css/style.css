@@ -1,0 +1,69 @@
+body {
+  background: #eceef1;
+}
+
+h2,
+p {
+  color: #51576d;
+}
+.form-container {
+  max-width: 300px;
+  margin: auto;
+  padding: 30px;
+  background: #fff;
+}
+
+#signup-form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+#signup-form,
+div {
+  padding-bottom: 10px;
+}
+
+#signup-form,
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  height: 30px;
+  border: solid 1px #c1c5c8;
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+
+#signup-form,
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus {
+  box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+  border: 1px solid rgba(81, 203, 238, 1);
+}
+.input-icons i{
+    position: absolute;
+}
+.input-icons { 
+    width: 100%; 
+    margin-bottom: 10px;
+    align-self: right;
+} 
+
+.icon{
+    padding: 10px;
+    min-width: 40px;
+}
+
+.btn{
+    background: #0077C5;
+    color: #fff;
+    width: 100%;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    font-weight: normal;
+    font-size: 18px;
+    padding-left: 10px;
+    cursor: pointer;
+}
