@@ -158,7 +158,7 @@ li {
   }
 
   80% {
-    opacity: 5;
+    opacity: 0.5;
   }
 
   100% {
@@ -236,7 +236,7 @@ footer {
 
   100% {
     visibility: visible;
-    left: 0px;
+    left: 0;
     padding-bottom: 13px;
   }
 }
@@ -258,9 +258,8 @@ footer {
 
   100% {
     visibility: visible;
-    left: 0px;
+    left: 0;
   }
-
 }
 
 .item3 {
