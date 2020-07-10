@@ -154,11 +154,11 @@ li {
 @keyframes intuitmove {
   0% {
     visibility: hidden;
-    opacity: 0%;
+    opacity: 0;
   }
 
   80% {
-    opacity: 50%;
+    opacity: 5;
   }
 
   100% {
@@ -223,7 +223,7 @@ footer {
   25% {
     width: 40px;
     height: 40px;
-    padding-bottom: 0px;
+    padding-bottom: 0.1px;
   }
 
   50% {
@@ -280,7 +280,6 @@ footer {
 
   100% {
     visibility: visible;
-    left: 0px;
   }
 }
 
@@ -301,7 +300,6 @@ footer {
 
   100% {
     visibility: visible;
-    left: 0px;
   }
 }
 
@@ -322,7 +320,6 @@ footer {
 
   100% {
     visibility: visible;
-    left: 0px;
   }
 }
 
@@ -340,9 +337,8 @@ footer {
     visibility: visible;
     left: 100px;
   }
-  
+
   100% {
     visibility: visible;
-    left: 0px;
   }
 }
