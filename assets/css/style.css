@@ -33,6 +33,7 @@ input[type="password"] {
   border: solid 1px #c1c5c8;
   border-radius: 5px;
   margin-bottom: 30px;
+  padding-left: 5px;
 }
 
 #signup-form,
